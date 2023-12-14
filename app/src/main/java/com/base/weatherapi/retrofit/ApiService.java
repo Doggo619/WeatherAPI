@@ -1,6 +1,5 @@
 package com.base.weatherapi.retrofit;
 
-import com.base.weatherapi.response.GeonamesResponse;
 import com.base.weatherapi.response.WeatherResponse;
 
 import retrofit2.Call;
